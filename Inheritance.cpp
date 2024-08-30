@@ -56,7 +56,7 @@ int main()
     s.name = "Palak";
     s.age = 24;
     s.rollno = 158;
-
+    printf("Single-level inheritance:\n");
     s.display();
 
     return 0;
