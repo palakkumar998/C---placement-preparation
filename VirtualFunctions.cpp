@@ -2,13 +2,17 @@
 #include <string>
 
 using namespace std;
-// Run time polymorphism
+// Runtime polymorphism
 class Parent
 {
 public:
     void getInfo()
     {
         cout << "Parent class\n";
+    }
+    void hello()
+    {
+        cout << "Hello from xyz" << endl;
     }
 };
 
@@ -19,16 +23,22 @@ public:
     {
         cout << "child class \n";
     }
+
+    void hello()
+    {
+        cout << "Hello from Child" << endl;
+    }
 };
 
 int main()
 {
-    printf("Function Overriding in Runtime Polymorphism:\n");
+
+    printf("Virtual Function in Runtime Polymorphism:\n");
     Parent p1;
-    p1.getInfo(); // output : parent class (overriding the child class)
+    p1.hello();
 
     Child c1;
-    c1.getInfo(); // output : child class (overriding the parent class)
+    c1.hello();
 
     return 0;
 }
