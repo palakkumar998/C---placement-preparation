@@ -10,7 +10,7 @@ public:
     {
         cout << "Parent class\n";
     }
-    void hello()
+    virtual void hello()
     {
         cout << "Hello from xyz" << endl;
     }
