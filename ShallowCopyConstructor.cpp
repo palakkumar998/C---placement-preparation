@@ -3,6 +3,8 @@
 
 using namespace std;
 
+
+// shallow copy constructor 
 class Student
 {
 public:
@@ -15,6 +17,11 @@ public:
     {
         this->name = name;
         this->cgpa = cgpa;
+    }
+
+    Student(Student &obj){
+        this->name = obj.name;
+        this->cgpa = obj.cgpa;
     }
 
     // Method to display student details
