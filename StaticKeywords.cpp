@@ -1,14 +1,14 @@
 #include <iostream>
 #include <string>
 
-using namespace std;
+using namespace std; 
 
 /*
 void func()
-{
+{ 
    int x = 0;
    cout << "x : " << x << endl;
-   x++;
+   x++; 
 }
 
 int main()
