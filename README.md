@@ -1,27 +1,53 @@
-<h1 align="center">C++ placement preparation </h1>
-<p align="center">A powerful C++ library for image manipulation and analysis.</p>
-
+<!-- Header Image -->
 <p align="center">
-  <img src="https://bs-uploads.toptal.io/blackfish-uploads/components/open_graph_image/8958349/og_image/optimized/0816-C__Mistakes-Waldek_Social-dfe55464df1f3105c8add45280123176.png" alt="Project Screenshot" width="800">
+  <img src="https://bs-uploads.toptal.io/blackfish-uploads/components/open_graph_image/8958349/og_image/optimized/0816-C__Mistakes-Waldek_Social-dfe55464df1f3105c8add45280123176.png" alt="C++ Placement Preparation" width="800">
 </p>
 
-<ul>
-  <li>Fast and efficient image processing algorithms</li>
-  <li>Supports a wide range of image formats (JPEG, PNG, BMP, etc.)</li>
-  <li>Provides functions for image filtering, enhancement, and analysis</li>
-  <li>Up to 50% faster than competing libraries</li>
-</ul>
-<pre>
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
-cmake .
-make
-</pre>
+<!-- Project Title -->
+<h1 align="center">🚀 C++ Placement Preparation 🚀</h1>
 
-<p>We welcome contributions from the community! Please follow these guidelines:</p>
-<ul>
-  <li>Fork the repository</li>
-  <li>Create a new branch</li>
-  <li>Make your changes</li>
-  <li>Submit a pull request</li>
-</ul>
+<!-- Short Description -->
+<p align="center">
+  A comprehensive guide to mastering C++ for placements, including OOP principles, coding challenges, interview questions, and C++ fundamentals.
+</p>
+
+<!-- Badges Section -->
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-Fundamentals-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/OOP-Principles-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Coding-Questions-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Placements-Ready-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Interview-Prep-red?style=for-the-badge">
+</p>
+
+<!-- Table of Contents -->
+
+## 📚 Table of Contents
+
+-   [Features](#features)
+-   [Installation](#installation)
+-   [Topics Covered](#topics-covered)
+-   [Contribution Guidelines](#contribution-guidelines)
+-   [License](#license)
+
+<!-- Features Section -->
+
+## ✨ Features
+
+-   Comprehensive C++ coverage for placement preparation.
+-   Focus on OOP principles and real-world coding questions.
+-   Curated interview questions for top tech companies.
+-   C++ fundamentals and advanced topics explained with examples.
+-   Regular updates with new content and coding challenges.
+
+<!-- Installation Section -->
+
+## ⚙️ Installation
+
+```bash
+# Clone the repository
+$ git clone https://github.com/palakkumar998/Cpp-placement-preparation
+$ cd Cpp-placement-preparation
+$ cmake .
+$ make
+```
