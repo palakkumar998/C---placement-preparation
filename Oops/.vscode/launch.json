@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Personal/C++ placement preparation",
-      "program": "d:/Personal/C++ placement preparation/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
