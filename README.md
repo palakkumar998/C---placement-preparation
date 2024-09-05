@@ -2,7 +2,7 @@
 <p align="center">A powerful C++ library for image manipulation and analysis.</p>
 
 <p align="center">
-  <img src="path/to/your/image.png" alt="Project Screenshot" width="800">
+  <img src="https://bs-uploads.toptal.io/blackfish-uploads/components/open_graph_image/8958349/og_image/optimized/0816-C__Mistakes-Waldek_Social-dfe55464df1f3105c8add45280123176.png" alt="Project Screenshot" width="800">
 </p>
 
 <ul>
