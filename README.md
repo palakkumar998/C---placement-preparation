@@ -11,13 +11,13 @@
   A comprehensive guide to mastering C++ for placements, including OOP principles, coding challenges, interview questions, and C++ fundamentals.
 </p>
 
-<!-- Custom Icons in Badges Section -->
+<!-- Badges Section with Shields.io -->
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/oop.png" alt="OOP" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/algorithm.png" alt="Coding Questions" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/resume.png" alt="Placements" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/questions.png" alt="Interview Prep" width="40" height="40">
+  <img src="https://img.shields.io/badge/C++-Fundamentals-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/OOP-Principles-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Coding-Questions-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Placements-Ready-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Interview-Prep-red?style=for-the-badge">
 </p>
 
 <!-- Table of Contents -->
@@ -28,23 +28,13 @@
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
 
-<!-- Features Section with Custom Icons -->
+<!-- Features Section with Octicons and Twemoji -->
 ## ✨ Features
-<p>
-  <img src="https://img.icons8.com/color/48/000000/task.png" width="30" height="30"> Comprehensive C++ coverage for placement preparation.
-</p>
-<p>
-  <img src="https://img.icons8.com/color/48/000000/programming.png" width="30" height="30"> Focus on OOP principles and real-world coding questions.
-</p>
-<p>
-  <img src="https://img.icons8.com/color/48/000000/clipboard.png" width="30" height="30"> Curated interview questions for top tech companies.
-</p>
-<p>
-  <img src="https://img.icons8.com/color/48/000000/folder.png" width="30" height="30"> C++ fundamentals and advanced topics explained with examples.
-</p>
-<p>
-  <img src="https://img.icons8.com/color/48/000000/update-left-rotation.png" width="30" height="30"> Regular updates with new content and coding challenges.
-</p>
+- ![Rocket](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png) Comprehensive C++ coverage for placement preparation.
+- ![Books](https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png) Focus on OOP principles and real-world coding questions.
+- ![Clipboard](https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png) Curated interview questions for top tech companies.
+- ![Folder](https://github.githubassets.com/images/icons/emoji/unicode/1f4c1.png) C++ fundamentals and advanced topics explained with examples.
+- ![Update](https://github.githubassets.com/images/icons/emoji/unicode/1f504.png) Regular updates with new content and coding challenges.
 
 <!-- Installation Section -->
 ## ⚙️ Installation
